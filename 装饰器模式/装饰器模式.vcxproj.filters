@@ -14,4 +14,29 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Gun.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="gun_98k.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="deractor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractMagazine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Aim4x.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Aim8x.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
